@@ -1,7 +1,7 @@
 {
   "main.css": "/vistadermInternship/static/css/main.9ee096a1.chunk.css",
-  "main.js": "/vistadermInternship/static/js/main.a3bd8cc2.chunk.js",
-  "main.js.map": "/vistadermInternship/static/js/main.a3bd8cc2.chunk.js.map",
+  "main.js": "/vistadermInternship/static/js/main.e94fbcd9.chunk.js",
+  "main.js.map": "/vistadermInternship/static/js/main.e94fbcd9.chunk.js.map",
   "static/js/1.a28c0795.chunk.js": "/vistadermInternship/static/js/1.a28c0795.chunk.js",
   "static/js/1.a28c0795.chunk.js.map": "/vistadermInternship/static/js/1.a28c0795.chunk.js.map",
   "runtime~main.js": "/vistadermInternship/static/js/runtime~main.5ff40929.js",
@@ -16,6 +16,6 @@
   "static/media/svg-5.svg": "/vistadermInternship/static/media/svg-5.61c6ceaf.svg",
   "static/css/main.9ee096a1.chunk.css.map": "/vistadermInternship/static/css/main.9ee096a1.chunk.css.map",
   "index.html": "/vistadermInternship/index.html",
-  "precache-manifest.397bfbdb64a7895effae1b83550ff7d9.js": "/vistadermInternship/precache-manifest.397bfbdb64a7895effae1b83550ff7d9.js",
+  "precache-manifest.ad31ec75c8cdb2e1fb3967e003e5e830.js": "/vistadermInternship/precache-manifest.ad31ec75c8cdb2e1fb3967e003e5e830.js",
   "service-worker.js": "/vistadermInternship/service-worker.js"
 }

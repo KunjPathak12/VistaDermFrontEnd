@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vistadermInternship/precache-manifest.397bfbdb64a7895effae1b83550ff7d9.js"
+  "/vistadermInternship/precache-manifest.ad31ec75c8cdb2e1fb3967e003e5e830.js"
 );
 
 workbox.clientsClaim();

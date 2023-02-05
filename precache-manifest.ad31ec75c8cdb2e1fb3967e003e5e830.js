@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a3bd8cc282beccfac397",
+    "revision": "e94fbcd98382391845ca",
     "url": "/vistadermInternship/static/css/main.9ee096a1.chunk.css"
   },
   {
-    "revision": "a3bd8cc282beccfac397",
-    "url": "/vistadermInternship/static/js/main.a3bd8cc2.chunk.js"
+    "revision": "e94fbcd98382391845ca",
+    "url": "/vistadermInternship/static/js/main.e94fbcd9.chunk.js"
   },
   {
     "revision": "a28c07959e87d5f1d8de",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/vistadermInternship/static/media/svg-5.61c6ceaf.svg"
   },
   {
-    "revision": "c804db0115dfc4ca22d42adc6605239e",
+    "revision": "ead4a9d454a55c043da6c48927142611",
     "url": "/vistadermInternship/index.html"
   }
 ];
